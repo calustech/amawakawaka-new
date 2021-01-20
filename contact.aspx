@@ -89,19 +89,18 @@
                         <div class=" col-md-9 col-sm-9">
                             <div class="topbar-left">
                                 <ul>
-                                    <li><a href="mailto:info@amawakawaka.co.za"><i class="fa fa-envelope"></i> info@amawakawaka.co.za</a></li>
+                                    <li><a href="mailto:admin@amawakawaka.co.za"><i class="fa fa-envelope"></i> admin@amawakawaka.co.za</a></li>
                                     <li><a href="tel:+27125486489"><i class="fa fa-phone-square"></i> 012 548 6489</a></li>
-                                    <li><a href="#"><i class="fa fa-clock-o"></i> Mon - Fri: 08:00 - 17:00</a></li>
                                 </ul>  
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-3">
                             <div class="top-social">
 								<ul>
-									<li><a href="#"><i class="fa fa-skype"></i></a></li>
-									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a href="#"><i class="fa fa-google"></i></a></li>
+									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="#"><i class="fa fa-instagram"></i></a></li>
+									<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
 								</ul> 
 							</div>
                         </div>
@@ -118,7 +117,7 @@
                             <div class="logo">
                                 <!-- Brand -->
                                 <a class="navbar-brand page-scroll black-logo" href="default.aspx">
-                                    <img src="img/logo/logo.png" style="width: 80%;" alt="">
+                                    <img src="img/logo/logo.png" style="width: 80%;" alt="Amawakawaka Logo">
                                 </a>
                             </div>
                             <!-- logo end -->
@@ -169,7 +168,7 @@
                         <div class="col-md-12">
                             <div class="mobile-menu">
                                 <div class="logo">
-                                    <a href="default.aspx"><img src="img/logo/logo.png" alt="" /></a>
+                                    <a href="default.aspx"><img src="img/logo/logo.png" alt="Amawakawaka Logo" /></a>
                                 </div>
                                 <nav id="dropdown">
                                     <ul class="nav navbar-nav navbar-right">
@@ -204,7 +203,7 @@
         </header>
         <!-- header end -->
         <!-- Start Bottom Header -->
-        <div class="page-area">
+        <div class="contact-page-area">
             <div class="breadcumb-overlay"></div>
             <div class="container">
                 <div class="row">
@@ -258,8 +257,7 @@
                                 <div class="single-icon">
                                     <i class="ti-location-pin"></i>
                                     <p>
-                                        Location : Newyork city<br>
-                                        <span>23 house/3 Road</span>
+                                        86 Erica St, Bon Accord, <br> <span>Pretoria, 0009</span>
                                     </p>
                                 </div>
                             </div>
@@ -269,8 +267,8 @@
                 <div class="row">
                      <div class="col-md-6 col-sm-6 col-xs-12">
                          <!-- Start Map -->
-                        <div class="map-area">
-                            <div id="googleMap" style="width:100%;height:420px;"></div>
+                        <div class="map-area">        
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14383.032575380754!2d28.274895!3d-25.6793109!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x31df2506f3e16ad1!2sAmawakawaka%20Projects!5e0!3m2!1sen!2sza!4v1610225826643!5m2!1sen!2sza" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                         </div>
                         <!-- End Map -->
                     </div>
@@ -303,8 +301,12 @@
                                         <textarea id="txtMessage" rows="7" placeholder="Massage" class="form-control" required data-error="Write your message"></textarea>
                                         <div class="help-block with-errors"></div>
                                     </div>
-                                    <div class="col-md-12 col-sm-12 col-xs-12 text-center">
-                                        <button type="submit" id="submit" class="add-btn contact-btn">Send Message</button>
+                                    <div class="col-md-12 col-sm-12 col-xs-12">
+                                        <div id="gCaptcha"></div>
+                                    </div>
+                                    <div class="col-md-12 col-sm-12 col-xs-12">
+                                        <label id="lblMessage" style="color:Red;font-style:italic;"></label><br />
+                                        <button type="submit" id="btnSubmit" class="add-btn contact-btn">Send Message</button>
                                         <div id="msgSubmit" class="h3 text-center hidden"></div> 
                                         <div class="clearfix"></div>
                                     </div>   
@@ -326,7 +328,7 @@
                             <div class="footer-content logo-footer">
                                <div class="footer-head">
                                     <div class="footer-logo">
-                                    	<a href="#"><img src="img/logo/logo.png" alt=""></a>
+                                    	<a href="#"><img src="img/logo/logo.png" alt="Amawakawaka Logo"></a>
                                     </div>
                                     <p>
                                         Amawakawaka Projects is supported by the latest quality management systems and a young, dynamic and agile team with the necessary experience to perform every aspect of its operations.
@@ -359,7 +361,7 @@
                                     <p>
                                         Opening Days:<br />
                                         Monday – Friday<br />
-                                        08:00am to 19:00pm<br /><br />
+                                        08:00am to 16:30pm<br /><br />
 
                                         Vacations:<br />
                                         All Saturdays<br />
@@ -376,9 +378,9 @@
                                 <div class="footer-head">
                                     <h4>Contact</h4>
                                     <div class="footer-contacts">
-                                        <p><span>Location:</span> 62 Taaifontein St, Montana Park, Pretoria, 0182</p>
+                                        <p><span>Location:</span> 86 Erica St, Bon Accord, Pretoria, 0009</p>
 										<p><span>Tel:</span> <a href="tel:+27125486489">012 548 6489</a></p>
-										<p><span>Email:</span> <a href="mailto:info@curtains4u.co.za">info@curtains4u.co.za</a></p>
+										<p><span>Email:</span> <a href="mailto:admin@amawakawaka.co.za">admin@amawakawaka.co.za</a></p>
 									</div> 
                                     <div class="footer-icons">
                                         <ul>
@@ -459,3 +461,131 @@
 		<script src="js/main.js"></script>
 	</body>
 </html>
+
+
+
+<script src="https://google.com/recaptcha/api.js?onload=loadCaptcha&render=explicit" async defer></script>
+
+<script type='text/javascript'>
+
+    var captchaContainer = null;
+    var loadCaptcha = function () {
+        captchaContainer = grecaptcha.render('gCaptcha', {
+            'sitekey': '6Lc6iyoUAAAAAKHxWIRIsFFPwLCvJUWsiGDI3vYL',
+            'callback': function (googleResponse) {
+                console.log(googleResponse);
+                if (googleResponse.length === 0) {
+                    $('#lblMessage').text('*Please verify the recaptcha*');
+                }
+                else {
+                    $('#lblMessage').text('');
+                }
+            }
+        });
+    };
+</script>
+
+
+<script>
+    $(document).ready(function () {
+
+        //click event for first button 
+        $('#btnSubmit').click(function (e) {
+
+            e.preventDefault();
+            var googleResponse = grecaptcha.getResponse();
+            if (googleResponse.length === 0) {
+                $('#lblMessage').text('*Please verify the recaptcha*');
+            }
+            else {
+
+                //Reqular Expressions
+                var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+                var contactReg = /[0-9]{10}/;
+
+                //Control Values
+                var txtEmail = $("#txtEmail").val();
+
+                if ($('#txtFirstName').val() == '' || $('#txtFirstName').val() == -1 || $('#txtFirstName').val() == 0 || $('#txtFirstName').val() == 1000500) {
+                    $('#lblMessage').text("Please enter your name");
+                    $('#txtFirstName').focus();
+                    return false; // prevent default click action from happening!
+                    e.preventDefault(); // same thing as above
+                }
+                else if ($('#txtLastName').val() == '' || $('#txtLastName').val() == -1 || $('#txtLastName').val() == 0 || $('#txtLastName').val() == 1000500) {
+                    $('#lblMessage').text("Please enter your name");
+                    $('#txtLastName').focus();
+                    return false; // prevent default click action from happening!
+                    e.preventDefault(); // same thing as above
+                }                else if (!emailReg.test(txtEmail)) {
+                    $('#lblMessage').text("The email address you have entered is invalid");
+                    $('#txtEmail').focus();
+                    return false; // prevent default click action from happening!
+                    e.preventDefault(); // same thing as above
+                }
+                else if ($('#txtEmail').val() == '' || $('#txtEmail').val() == -1 || $('#txtEmail').val() == 0 || $('#txtEmail').val() == 1000500) {
+                    $('#lblMessage').text("Please enter your email address");
+                    $('#txtEmail').focus();
+                    return false; // prevent default click action from happening!
+                    e.preventDefault(); // same thing as above
+                }
+                else if ($('#txtContact').val() == '' || $('#txtContact').val() == -1 || $('#txtContact').val() == 0 || $('#txtContact').val() == 1000500) {
+                    $('#lblMessage').text("Please enter your contact number");
+                    $('#txtContact').focus();
+                    return false; // prevent default click action from happening!
+                    e.preventDefault(); // same thing as above
+                }
+                else if ($('#txtSubject').val() == '' || $('#txtSubject').val() == -1 || $('#txtSubject').val() == 0 || $('#txtSubject').val() == 1000500) {
+                    $('#lblMessage').text("Please enter your subject");
+                    $('#txtSubject').focus();
+                    return false; // prevent default click action from happening!
+                    e.preventDefault(); // same thing as above
+                }
+                else if ($('#txtMessage').val() == '' || $('#txtMessage').val() == -1 || $('#txtMessage').val() == 0 || $('#txtMessage').val() == 1000500) {
+                    $('#lblMessage').text("Please enter your message");
+                    $('#txtMessage').focus();
+                    return false; // prevent default click action from happening!
+                    e.preventDefault(); // same thing as above
+                }
+                else {
+
+                    var fullName = $('#txtFirstName').val() + ' ' + $('#txtLastName').val();
+
+                    var dataToSend = JSON.stringify({
+                        'name': fullName,
+                        'email': $('#txtEmail').val(),
+                        'contact': $('#txtContact').val(),
+                        'subject': $('#txtSubject').val(),
+                        'message': $('#txtMessage').val(),
+                    });
+
+                    $.ajax({
+                        url: "contact.aspx/SubmitInfo",
+                        type: "POST",
+                        contentType: "application/json; charset=utf-8",
+                        dataType: "json",
+                        data: dataToSend, // pass that text to the server as a correct JSON String
+                        success: function (msg) {
+
+                            $('#lblMessage').text(msg.d);
+                            $('#txtLastName').val('');
+                            $('#txtFirstName').val('');
+                            $('#txtEmail').val('');
+                            $('#txtContact').val('');
+                            $('#txtSubject').val('');
+                            $('#txtMessage').val('');
+                        },
+                        error: function (type) {
+                            $('#lblMessage').text("ERROR!!" + type.responseText);
+                        }
+                    });
+
+                    return false; // prevent default click action from happening!
+                    e.preventDefault(); // same thing as above
+                }
+            }
+
+        });
+
+    });
+</script>

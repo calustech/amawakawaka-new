@@ -804,7 +804,7 @@ div#preloader {
 /*  5. About area
 /*----------------------------------------*/
 .about-2 {
-    background: url(img/background/ag1.jpg);
+    background: url(img/background/health_bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
@@ -983,7 +983,6 @@ div#preloader {
 }
 .top-img {
     position: absolute;
-    top: 90px;
     left: 0;
     width: 100%;
     height: 100%;
@@ -1045,6 +1044,15 @@ div#preloader {
     line-height: 48px;
     max-width: 750px;
     float: left;
+    margin-bottom: 0px;
+    margin-top: 18px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.add-content h4 {
+    color: #fff;
+    font-size: 36px;
+    line-height: 48px;
     margin-bottom: 0px;
     margin-top: 18px;
     font-weight: 500;
@@ -2049,13 +2057,15 @@ div#preloader {
 /*----------------------------------------*/
 /*  20. Breadcumbs Area
 /*----------------------------------------*/
+.transparent-header {
+    background: transparent;
+}
+
 .page-area {
     position: relative;
     z-index: 1;
 }
-.transparent-header{
-    background: transparent;
-}
+
 .page-area {
     background: url(img/background/bread.jpg);
     background-repeat: no-repeat;
@@ -2072,13 +2082,160 @@ div#preloader {
     background: rgba(0,0,0,0.7);
     z-index: -1;
 }
+.page-area .section-headline::after {
+    display: none;
+}
+
+
+.about-page-area {
+    position: relative;
+    z-index: 1;
+}
+
+.about-page-area {
+    background: url(img/background/about_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+    .about-page-area::after {
+        position: absolute;
+        content: "";
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,0.7);
+        z-index: -1;
+    }
+    .about-page-area .section-headline::after {
+        display: none;
+    }
+
+
+.about-page-area {
+    position: relative;
+    z-index: 1;
+}
+
+.construction-page-area {
+    background: url(img/background/construction_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.construction-page-area::after {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.7);
+    z-index: -1;
+}
+
+.construction-page-area .section-headline::after {
+    display: none;
+}
+
+.construction-page-area {
+    position: relative;
+    z-index: 1;
+}
+
+
+.plant-page-area {
+    background: url(img/background/plant_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.plant-page-area::after {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.7);
+    z-index: -1;
+}
+
+.plant-page-area .section-headline::after {
+    display: none;
+}
+
+.plant-page-area {
+    position: relative;
+    z-index: 1;
+}
+
+
+.projects-page-area {
+    background: url(img/background/projects_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.projects-page-area::after {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.7);
+    z-index: -1;
+}
+
+.projects-page-area .section-headline::after {
+    display: none;
+}
+
+.projects-page-area {
+    position: relative;
+    z-index: 1;
+}
+
+
+
+.contact-page-area {
+    background: url(img/background/contact_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.contact-page-area::after {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.7);
+    z-index: -1;
+}
+
+.contact-page-area .section-headline::after {
+    display: none;
+}
+
+.contact-page-area {
+    position: relative;
+    z-index: 1;
+}
+
+
 .breadcrumb .section-headline {
     text-align: center;
     padding-bottom: 10px;
 }
-.page-area .section-headline::after {
-    display: none;
-}
+
 .breadcrumb {
     background-color: transparent;
     margin-bottom: 0;
@@ -3325,3 +3482,158 @@ table {
                 border-bottom: 0;
             }
 }
+
+
+
+/* ====== Responsive ====== */
+.logo-img {
+    width: 80%;
+}
+
+
+@media (max-width:1440px) {
+    .logo-img {
+        width: 70%;
+    }
+}
+
+@media (max-width:1366px) {
+    .logo-img {
+        width: 70%;
+    }
+}
+
+@media (max-width:1280px) {
+    .logo-img {
+        width: 65%;
+        margin-top: 8px;
+    }
+}
+
+@media (max-width:1080px) {
+    .logo-img {
+        width: 70%;
+        margin-top: 8px;
+    }
+}
+
+@media (max-width:1050px) {
+    .logo-img {
+        width: 70%;
+        margin-top: 8px;
+    }
+}
+
+
+@media (max-width:1024px) {
+    .logo-img {
+        width: 70%;
+        margin-top: 8px;
+    }
+}
+
+
+@media (max-width:991px) {
+    .logo-img {
+        width: 80%;
+        margin-top: 10px;
+    }
+}
+
+
+@media (max-width:800px) {
+    .logo-img {
+        width: 80%;
+        margin-top: 10px;
+    }
+}
+
+
+@media (max-width:768px) {
+    .logo-img {
+        width: 80%;
+        margin-top: 6px;
+    }
+}
+
+@media (max-width:767px) {
+    .logo-img {
+        width: 100%;
+        margin-top: 6px;
+    }
+}
+
+
+@media (max-width:736px) {
+    .logo-img {
+        width: 100%;
+        margin-top: 6px;
+    }
+}
+
+@media (max-width:667px) {
+    .logo-img {
+        width: 100%;
+        margin-top: 6px;
+    }
+}
+
+
+@media (max-width:640px) {
+    .logo-img {
+        width: 100%;
+        margin-top: 6px;
+    }
+}
+
+@media (max-width:600px) {
+    .logo-img {
+        width: 100%;
+        margin-top: 6px;
+    }
+}
+
+
+@media (max-width:568px) {
+    .logo-img {
+        width: 100%;
+        margin-top: 6px;
+    }
+}
+
+@media (max-width:480px) {
+    .logo-img {
+        width: 100%;
+        margin-top: 6px;
+    }
+}
+
+@media (max-width:414px) {
+    .logo-img {
+        width: 100%;
+        margin-top: 6px;
+    }
+}
+
+@media (max-width:384px) {
+    .logo-img {
+        width: 100%;
+        margin-top: 6px;
+    }
+}
+
+@media (max-width:375px) {
+    .logo-img {
+        width: 100%;
+        margin-top: 6px;
+    }
+}
+
+@media (max-width:320px) {
+    .logo-img {
+        width: 100%;
+        margin-top: 6px;
+    }
+}
+
+/* ====== Responsive ====== */

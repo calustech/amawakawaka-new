@@ -87,19 +87,18 @@
                         <div class=" col-md-9 col-sm-9">
                             <div class="topbar-left">
                                 <ul>
-                                    <li><a href="#"><i class="fa fa-envelope"></i> info@randerc3.com</a></li>
-                                    <li><a href="#"><i class="fa fa-phone-square"></i> +3234-7665545</a></li>
-                                    <li><a href="#"><i class="fa fa-clock-o"></i> Mon - Fri: 10:00 - 18:00</a></li>
+                                    <li><a href="mailto:admin@amawakawaka.co.za"><i class="fa fa-envelope"></i> admin@amawakawaka.co.za</a></li>
+                                    <li><a href="tel:+27125486489"><i class="fa fa-phone-square"></i> 012 548 6489</a></li>
                                 </ul>  
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-3">
                             <div class="top-social">
 								<ul>
-									<li><a href="#"><i class="fa fa-skype"></i></a></li>
-									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a href="#"><i class="fa fa-google"></i></a></li>
+									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="#"><i class="fa fa-instagram"></i></a></li>
+									<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
 								</ul> 
 							</div>
                         </div>
@@ -115,7 +114,7 @@
                         <div class="col-md-3 col-sm-3">
                             <div class="logo">                               
                                 <a class="navbar-brand page-scroll black-logo" href="default.aspx">
-                                    <img src="img/logo/logo.png" style="width: 80%;" alt="">
+                                    <img src="img/logo/logo.png" style="width: 80%;" alt="Amawakawaka Logo">
                                 </a>
                             </div>
                             <!-- logo end -->
@@ -166,7 +165,7 @@
                         <div class="col-md-12">
                             <div class="mobile-menu">
                                 <div class="logo">
-                                    <a href="default.aspx"><img src="img/logo/logo.png" alt="" /></a>
+                                    <a href="default.aspx"><img src="img/logo/logo.png" alt="Amawakawaka Logo" /></a>
                                 </div>
                                 <nav id="dropdown">
                                     <ul>
@@ -201,7 +200,7 @@
         </header>
         <!-- header end -->
         <!-- Start Bottom Header -->
-        <div class="page-area">
+        <div class="construction-page-area">
             <div class="breadcumb-overlay"></div>
             <div class="container">
                 <div class="row">
@@ -228,26 +227,38 @@
 				    <!-- Start Column -->
 					<div class="col-md-6 col-sm-6 col-xs-12">
 						<div class="overview-wrapper">
-						    <h3> randerc technology firm clients web related security services </h3>
-                            <p>
-                                Our independent consultants, free from the internal demands of traditional firms, can focus on what really matters: delivering lasting impact. Our consultants opt in to the projects they genuinely want to work on, committing wholeheartedly to delivering transformational change for the client, while being part of a strong team of like-minded professionals.
-                            </p>
-                            <div class="total-count">
-                                <div class="single-count left-one">
-                                   <span class="count-num">900+</span>
-                                    <h4>Global Clients</h4>
-                                </div>
-                                <div class="single-count right-one">
-                                   <span class="count-num">20+</span>
-                                    <h4>Global Location</h4>
-                                </div>
-                            </div>
+						    <h3> Construction </h3>
+                            <p>Amawakawaka Projects is registered with most construction bodies and operates from Gauteng province.</p>
+                            <p><strong>Key Services Includes</strong></p>
+                            <ul class="marker-list">
+								<li>Road Construction</li>
+								<li>Storm Water</li>
+								<li>Water Reticulation Network</li>
+								<li>Sewer Channels</li>
+								<li>Concrete Reservoir</li>
+								<li>Housing Projects</li>
+								<li>Parks</li>
+							</ul> 
+                            
+                            <br />
+
+                            <p><strong>Sustainability</strong></p>
+                            <p>Amawakawaka is also about empowering communities in our areas of business and providing necessary resources, support and skills to enhance better lives.
+                                In the year 2013 Amawakawaka Projects hosted a golf day to fund a guard house and classrooms renovation for Seroto Primary School situated in Majaneng at Hammanskraal.
+
+                            In 2012 October, Amawakawaka project donated a guard house to Tim Modise primary school situated at Garankuwa Zone 6.
+
+                            Amawakawaka Projects donated R6 000 to IT Urban Dynamix with the donation, the company managed to donate 20 blankets to Tuks FM winter warmer projects and 12 knitted blankets to the 67 blankets for Nelson Mandela day project.
+
+                            2 soccer kits, 10 soccer balls, 25 cones and whistles were donated to Temba Football Development. 1 set of 25 cones to Temba Soccer Academy and 1 soccer kit, 10 soccer balls whistles to Garankuwa Zone 3 Soccer club.</p>
+
 						</div>
                     </div>
                     <!-- Start Column -->
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="overview-image">
-                        	<img src="img/about/vd.jpg" alt="overview">
+                        	<img src="img/about/img-04.jpg" alt="overview"><br /><br />
+                            <img src="img/about/img-05.jpg" alt="overview">
                         </div>
 				    </div>
 				    <!-- End Column -->
@@ -259,33 +270,31 @@
         <!-- about-area start -->
         <div class="about-area about-2 fix">
             <div class="container-full">
-                <div class="row">
+                <div class="row">                   
+                    <!-- column end -->
                     <div class="col-md-5 col-sm-4 col-xs-12">
                         <div class="about-image">
-                            <div class="video-content ">
-								<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
-									<i class="fa fa-play"></i>
-								</a>
+                            <div class="video-content ">								
 							</div>
                         </div>
                     </div>
-                    <!-- column end -->
                     <div class="col-md-7 col-sm-8 col-xs-12">
                         <div class="support-all about-content">
                             <div class="section-headline right-headline white-headline">
-                                <h3>Technology <span class="color">more experts</span> that provides security</h3>
-                                <p>The phrasal sequence of the Lorem Ipsum text is now so widespread and commonplace that many DTP programmes can generate dummy text using the starting sequence "Lorem ipsum". Fortunately, the phrase 'Lorem Ipsum' is now recognized by electronic pre-press systems and, when found, an alarm can be raised.</p>
+                                <h3><span class="color">Health, Environmental And Safety Policy</span></h3>                                
                             </div>
+
                             <div class="about-company">
                                 <div class="single-about">
-									<span class="about-text">Professional team</span>
-									<span class="about-text">Server secure payments</span>
-									<span class="about-text">Live hat upport</span>
+									<span class="about-text">Provide a safe working environment for all employees</span>
+									<span class="about-text">Fill all necessary appointments including a responsible 16.2 appointment on every project -</span>
+									<span class="about-text">Providing all employees with basic site safety induction prior to commencement of activities -</span>
+                                    <span class="about-text">Eliminating all potential hazards by regular maintenance on all equipment, plant and tools</span>
                                 </div>
                                 <div class="single-about">
-									<span class="about-text">Goal achivment</span>
-									<span class="about-text">Worldwide services company</span>
-									<span class="about-text">Marketing expert policy</span>
+									<span class="about-text">Conduct risk assessment on daily basis during toolbox talks -</span>
+									<span class="about-text">Providing all necessary material safety data sheets</span>
+									<span class="about-text">Purchase material SABS ISO 9001 as well as ISO 14000 compliant</span>
                                 </div>
                             </div>
                         </div>
@@ -305,7 +314,7 @@
                             <div class="footer-content logo-footer">
                                <div class="footer-head">
                                     <div class="footer-logo">
-                                    	<a href="#"><img src="img/logo/logo.png" alt=""></a>
+                                    	<a href="#"><img src="img/logo/logo.png" alt="Amawakawaka Logo"></a>
                                     </div>
                                     <p>
                                         Amawakawaka Projects is supported by the latest quality management systems and a young, dynamic and agile team with the necessary experience to perform every aspect of its operations.
@@ -338,7 +347,7 @@
                                     <p>
                                         Opening Days:<br />
                                         Monday – Friday<br />
-                                        08:00am to 19:00pm<br /><br />
+                                        08:00am to 16:30pm<br /><br />
 
                                         Vacations:<br />
                                         All Saturdays<br />
@@ -355,9 +364,9 @@
                                 <div class="footer-head">
                                     <h4>Contact</h4>
                                     <div class="footer-contacts">
-                                        <p><span>Location:</span> 62 Taaifontein St, Montana Park, Pretoria, 0182</p>
+                                        <p><span>Location:</span> 86 Erica St, Bon Accord, Pretoria, 0009</p>
 										<p><span>Tel:</span> <a href="tel:+27125486489">012 548 6489</a></p>
-										<p><span>Email:</span> <a href="mailto:info@curtains4u.co.za">info@curtains4u.co.za</a></p>
+										<p><span>Email:</span> <a href="mailto:admin@amawakawaka.co.za">admin@amawakawaka.co.za</a></p>
 									</div> 
                                     <div class="footer-icons">
                                         <ul>

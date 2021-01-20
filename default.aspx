@@ -86,19 +86,18 @@
                         <div class=" col-md-9 col-sm-9">
                             <div class="topbar-left">
                                 <ul>
-                                    <li><a href="mailto:info@amawakawaka.co.za"><i class="fa fa-envelope"></i> info@amawakawaka.co.za</a></li>
+                                    <li><a href="mailto:admin@amawakawaka.co.za"><i class="fa fa-envelope"></i> admin@amawakawaka.co.za</a></li>
                                     <li><a href="tel:+27125486489"><i class="fa fa-phone-square"></i> 012 548 6489</a></li>
-                                    <li><a href="#"><i class="fa fa-clock-o"></i> Mon - Fri: 08:00 - 17:00</a></li>
                                 </ul>  
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-3">
                             <div class="top-social">
 								<ul>
-									<li><a href="#"><i class="fa fa-skype"></i></a></li>
-									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a href="#"><i class="fa fa-google"></i></a></li>
+									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="#"><i class="fa fa-instagram"></i></a></li>
+									<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
 								</ul> 
 							</div>
                         </div>
@@ -115,7 +114,7 @@
                             <div class="logo">
                                 <!-- Brand -->
                                 <a class="navbar-brand page-scroll black-logo" href="default.aspx">
-                                    <img src="img/logo/logo.png" style="width: 80%;" alt="">
+                                    <img src="img/logo/logo.png" class="logo-img" alt="Amawakawaka Logo">
                                 </a>
                             </div>
                             <!-- logo end -->
@@ -135,7 +134,7 @@
 													<li><a href="about.aspx">Who We Are</a></li>
 													<li><a href="our-team.aspx">Our Team</a></li>
 												</ul>
-											</li>	
+											</li>
 											<li><a class="pages" href="#">Services</a>
 												<ul class="sub-menu">
 													<li><a href="construction.aspx">Construction</a></li>
@@ -166,7 +165,7 @@
                         <div class="col-md-12">
                             <div class="mobile-menu">
                                 <div class="logo">
-                                    <a href="default.aspx"><img src="img/logo/logo.png" alt="" /></a>
+                                    <a href="default.aspx"><img src="img/logo/logo.png" class="logo-img" alt="Amawakawaka Logo" /></a>
                                 </div>
                                 <nav id="dropdown">
                                     <ul>
@@ -205,7 +204,7 @@
             <div class="intro-carousel">
                 <div class="intro-content-2 slide-3">
                     <div class="slider-images">
-                        <img src="img/slider/h1.jpg" alt="">
+                        <img src="img/slider/h1.jpg" alt="Amawakawaka Logo">
                     </div>
                     <div class="slider-content">
                         <div class="display-table">
@@ -238,7 +237,7 @@
                 </div>
                 <div class="intro-content-2 slide-3">
                     <div class="slider-images">
-                        <img src="img/slider/h2.jpg" alt="">
+                        <img src="img/slider/h2.jpg" alt="Amawakawaka Logo">
                     </div>
                     <div class="slider-content">
                         <div class="display-table">
@@ -271,7 +270,7 @@
                 </div>
                 <div class="intro-content-2 slide-3">
                     <div class="slider-images">
-                        <img src="img/slider/h3.jpg" alt="">
+                        <img src="img/slider/h3.jpg" alt="Amawakawaka Logo">
                     </div>
                     <div class="slider-content">
                         <div class="display-table">
@@ -313,18 +312,20 @@
 				    <!-- Start Column -->
 					<div class="col-md-6 col-sm-6 col-xs-12">
 						<div class="overview-wrapper">
-						    <h3> randerc technology firm clients web related security services </h3>
+						    <h3> Welcome to Amawakawaka Projects </h3>
                             <p>
-                                Our independent consultants, free from the internal demands of traditional firms, can focus on what really matters: delivering lasting impact. Our consultants opt in to the projects they genuinely want to work on, committing wholeheartedly to delivering transformational change for the client, while being part of a strong team of like-minded professionals.
+                                Established in 2001, Amawakawaka Projects is one of the fastest growing civil engineering company in South Africa. We foster a culture of partnership, entrepreneurship and integrity in the construction industry. Amawakawaka Projects is rated 8CEPE and 5GBPE by CIDB and is level 1 BBBEE contributor. The company currently has 52 permanent employees and +/- 200 temporary laborers.
+                                <br /><br />
+                                The headquarters of Amawakawaka Projects is nestled in Montana, Pretoria. During the past 15 years, the company has successfully undertaken many large and medium key projects ranging from R1,5M to R500M. The company has made a great contribution to South African infrastructure development and modernization. Considerably the development has been witnessed in terms of projects in City of Tshwane Municipality, Polokwane Municipality, Ramotshere Moila Local Municipality, Capricorn Municipality, Thembisile Hani Local Municipality, Gauteng Housing Development and City of Johannesburg Municipality and many more.
                             </p>
-                            <div class="total-count">
+                           <div class="total-count">
                                 <div class="single-count left-one">
-                                   <span class="count-num">900+</span>
-                                    <h4>Global Clients</h4>
+                                   <span class="count-num">8 CE PE</span>
+                                    <h4>CIBD Level<br /><br /></h4>
                                 </div>
                                 <div class="single-count right-one">
                                    <span class="count-num">20+</span>
-                                    <h4>Global Location</h4>
+                                    <h4>Years<br /> Experience</h4>
                                 </div>
                             </div>
 						</div>
@@ -333,6 +334,8 @@
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="overview-image">
                         	<img src="img/about/vd.jpg" alt="overview">
+                            <br /><br />
+                            <img src="img/about/vd-01.jpg" alt="overview">
                         </div>
 				    </div>
 				    <!-- End Column -->
@@ -340,57 +343,15 @@
 			</div>
 		</div>
 		<!-- End Service area -->
-               
-       <!-- about-area start -->
-        <div class="about-area about-2 fix">
-            <div class="container-full">
-                <div class="row">
-                    <div class="col-md-5 col-sm-4 col-xs-12">
-                        <div class="about-image">
-                            <div class="video-content ">
-								<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
-									<i class="fa fa-play"></i>
-								</a>
-							</div>
-                        </div>
-                    </div>
-                    <!-- column end -->
-                    <div class="col-md-7 col-sm-8 col-xs-12">
-                        <div class="support-all about-content">
-                            <div class="section-headline right-headline white-headline">
-                                <h3>Technology <span class="color">more experts</span> that provides security</h3>
-                                <p>The phrasal sequence of the Lorem Ipsum text is now so widespread and commonplace that many DTP programmes can generate dummy text using the starting sequence "Lorem ipsum". Fortunately, the phrase 'Lorem Ipsum' is now recognized by electronic pre-press systems and, when found, an alarm can be raised.</p>
-                            </div>
-                            <div class="about-company">
-                                <div class="single-about">
-									<span class="about-text">Professional team</span>
-									<span class="about-text">Server secure payments</span>
-									<span class="about-text">Live hat upport</span>
-                                </div>
-                                <div class="single-about">
-									<span class="about-text">Goal achivment</span>
-									<span class="about-text">Worldwide services company</span>
-									<span class="about-text">Marketing expert policy</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- column end -->
-                </div>
-            </div>
-        </div>
-        <!-- about-area end -->
+                      
         <!-- Start Counter area -->
         <div class="counter-area fix area-padding">
             <div class="container">
                <div class="row">
                    <div class="col-md-6 col-sm-6 col-xs-12">
-                       <div class="counter-image">
-                            <div class="rotmate-image rotateme">
-                                <img src="img/about/circle.png" alt="">
-                            </div>
+                       <div class="counter-image">                            
                             <div class="top-img">
-                                <img src="img/about/self.png" alt="">
+                                <img src="img/about/self.jpg" alt="Amawakawaka Logo">
                             </div>
                         </div>
                     </div>
@@ -399,33 +360,29 @@
                             <!-- single counter  -->
                             <div class="col-md-6 col-sm-6 col-xs-12">
                                 <div class="fun_text wow fadeInUp" data-wow-delay="0.2s">
-                                   <span class="counter-icon"><i class="ti-layers"></i></span>
-                                    <span class="counter">510</span>
-                                    <h4>Total projects</h4>
+                                    <span class="counter">2001</span>
+                                    <h4>Since</h4>
                                 </div>
                             </div>
                             <!-- single counter  -->
                             <div class="col-md-6 col-sm-6 col-xs-12">
                                 <div class="fun_text wow fadeInUp" data-wow-delay="0.3s">
-                                   <span class="counter-icon"><i class="ti-world"></i></span>
-                                    <span class="counter">120</span>
-                                    <h4>Worldwide</h4>
+                                    <span class="counter">150</span>
+                                    <h4>Staff Members</h4>
                                 </div>
                             </div>
                            <!-- single counter  -->
                             <div class="col-md-6 col-sm-6 col-xs-12">
                                 <div class="fun_text wow fadeInUp" data-wow-delay="0.4s">
-                                    <span class="counter-icon"><i class="ti-cup"></i></span>
-                                    <span class="counter">40</span>
-                                    <h4>Awards win</h4>
+                                    <span class="counter">5000</span>
+                                    <h4>Projects</h4>
                                 </div>
                             </div>
                             <!-- single counter  -->
                             <div class="col-md-6 col-sm-6 col-xs-12">
                                 <div class="fun_text wow fadeInUp" data-wow-delay="0.5s">
-                                    <span class="counter-icon"><i class="ti-user"></i></span>
-                                    <span class="counter">210</span>
-                                    <h4>Team member</h4>
+                                    <span class="counter">2000</span>
+                                    <h4>Happy Clients</h4>
                                 </div>
                             </div>
                             <!-- single counter  -->
@@ -435,17 +392,16 @@
             </div>
         </div>
         <!-- End Counter area -->
-       <!-- Start Team Banner area -->
+
+        <!-- Start Team Banner area -->
         <div class="banner-area fix area-padding">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
-                        <div class="add-content">
-                            <h3>Render It solutions corporate company established since 1998</h3>
-                            <div class="add-contact">
-                                <span class="call-us"><i class="ti-mobile"></i>Toll free : +4321-7654543</span>
-                                <span class="call-us mail-us"><i class="ti-email"></i>Mail us : render-09@mail.com</span>
-                            </div>
+                        <div class="add-content text-center">
+                            <h4>What Drives Our Business?</h4>
+                            <p style="color: #FFF;">Amawakawaka Projects is driven by its commitment to the spirit of hard work, creativity and dedication.</p>
+                            <p style="color: #FFF;">In 2013 Amawakawaka Projects established in-depth strategic co-operation at all levels also with a large group of plant and equipment hire under a distinguished company named Amawakawaka Plant. Our plant equipment business is suitable for both home and abroad markets and has played an important role in the South African Construction sector.</p>                           
                         </div>
                     </div>
                 </div>
@@ -462,7 +418,7 @@
                             <div class="footer-content logo-footer">
                                <div class="footer-head">
                                     <div class="footer-logo">
-                                    	<a href="#"><img src="img/logo/logo.png" alt=""></a>
+                                    	<a href="#"><img src="img/logo/logo.png" alt="Amawakawaka Logo"></a>
                                     </div>
                                     <p>
                                         Amawakawaka Projects is supported by the latest quality management systems and a young, dynamic and agile team with the necessary experience to perform every aspect of its operations.
@@ -495,7 +451,7 @@
                                     <p>
                                         Opening Days:<br />
                                         Monday – Friday<br />
-                                        08:00am to 19:00pm<br /><br />
+                                        08:00am to 16:30pm<br /><br />
 
                                         Vacations:<br />
                                         All Saturdays<br />
@@ -512,9 +468,9 @@
                                 <div class="footer-head">
                                     <h4>Contact</h4>
                                     <div class="footer-contacts">
-                                        <p><span>Location:</span> 62 Taaifontein St, Montana Park, Pretoria, 0182</p>
+                                        <p><span>Location:</span> 86 Erica St, Bon Accord, Pretoria, 0009</p>
 										<p><span>Tel:</span> <a href="tel:+27125486489">012 548 6489</a></p>
-										<p><span>Email:</span> <a href="mailto:info@curtains4u.co.za">info@curtains4u.co.za</a></p>
+										<p><span>Email:</span> <a href="mailto:admin@amawakawaka.co.za">admin@amawakawaka.co.za</a></p>
 									</div> 
                                     <div class="footer-icons">
                                         <ul>

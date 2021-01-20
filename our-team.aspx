@@ -89,19 +89,18 @@
                         <div class=" col-md-9 col-sm-9">
                             <div class="topbar-left">
                                 <ul>
-                                    <li><a href="mailto:info@amawakawaka.co.za"><i class="fa fa-envelope"></i> info@amawakawaka.co.za</a></li>
+                                    <li><a href="mailto:admin@amawakawaka.co.za"><i class="fa fa-envelope"></i> admin@amawakawaka.co.za</a></li>
                                     <li><a href="tel:+27125486489"><i class="fa fa-phone-square"></i> 012 548 6489</a></li>
-                                    <li><a href="#"><i class="fa fa-clock-o"></i> Mon - Fri: 08:00 - 17:00</a></li>
                                 </ul>  
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-3">
                             <div class="top-social">
 								<ul>
-									<li><a href="#"><i class="fa fa-skype"></i></a></li>
-									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a href="#"><i class="fa fa-google"></i></a></li>
+									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="#"><i class="fa fa-instagram"></i></a></li>
+									<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
 								</ul> 
 							</div>
                         </div>
@@ -117,7 +116,7 @@
                         <div class="col-md-3 col-sm-3">
                             <div class="logo">                                
                                 <a class="navbar-brand page-scroll black-logo" href="default.aspx">
-                                    <img src="img/logo/logo.png" style="width: 80%;" alt="">
+                                    <img src="img/logo/logo.png" style="width: 80%;" alt="Amawakawaka Logo">
                                 </a>
                             </div>
                             <!-- logo end -->
@@ -169,7 +168,7 @@
                         <div class="col-md-12">
                             <div class="mobile-menu">
                                 <div class="logo">
-                                    <a href="default.aspx"><img src="img/logo/logo.png" alt="" /></a>
+                                    <a href="default.aspx"><img src="img/logo/logo.png" alt="Amawakawaka Logo" /></a>
                                 </div>
                                 <nav id="dropdown">
                                     <ul>
@@ -204,7 +203,7 @@
         </header>
         <!-- header end -->
         <!-- Start Bottom Header -->
-        <div class="page-area">
+        <div class="about-page-area">
             <div class="breadcumb-overlay"></div>
             <div class="container">
                 <div class="row">
@@ -241,7 +240,7 @@
                             <div class="single-awesome-project">
                                 <div class="awesome-img">
                                     <a href="#">
-                                        <img src="img/team/t1.jpg" alt="" />
+                                        <img src="img/team/t1.jpg" alt="Amawakawaka Logo" />
                                     </a>
                                     <div class="add-actions text-center">
                                         <a class="venobox" data-gall="myGallery" href="img/team/t1.jpg">
@@ -261,7 +260,7 @@
                             <div class="single-awesome-project">
                                 <div class="awesome-img">
                                     <a href="#">
-                                        <img src="img/team/t2.jpg" alt="" />
+                                        <img src="img/team/t2.jpg" alt="Amawakawaka Logo" />
                                     </a>
                                     <div class="add-actions text-center">
                                         <a class="venobox" data-gall="myGallery" href="img/team/t2.jpg">
@@ -289,12 +288,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
-                        <div class="add-content">
-                            <h3>Render It solutions corporate company established since 1998</h3>
-                            <div class="add-contact">
-                                <span class="call-us"><i class="ti-mobile"></i>Toll free : +4321-7654543</span>
-                                <span class="call-us mail-us"><i class="ti-email"></i>Mail us : render-09@mail.com</span>
-                            </div>
+                        <div class="add-content text-center">
+                            <h4>Supported by an interested quality management systems and a young, dynamic and agile team.</h4>                            
                         </div>
                     </div>
                 </div>
@@ -311,7 +306,7 @@
                             <div class="footer-content logo-footer">
                                <div class="footer-head">
                                     <div class="footer-logo">
-                                    	<a href="#"><img src="img/logo/logo.png" alt=""></a>
+                                    	<a href="#"><img src="img/logo/logo.png" alt="Amawakawaka Logo"></a>
                                     </div>
                                     <p>
                                         Amawakawaka Projects is supported by the latest quality management systems and a young, dynamic and agile team with the necessary experience to perform every aspect of its operations.
@@ -344,7 +339,7 @@
                                     <p>
                                         Opening Days:<br />
                                         Monday – Friday<br />
-                                        08:00am to 19:00pm<br /><br />
+                                        08:00am to 16:30pm<br /><br />
 
                                         Vacations:<br />
                                         All Saturdays<br />
@@ -361,9 +356,9 @@
                                 <div class="footer-head">
                                     <h4>Contact</h4>
                                     <div class="footer-contacts">
-                                        <p><span>Location:</span> 62 Taaifontein St, Montana Park, Pretoria, 0182</p>
+                                        <p><span>Location:</span> 86 Erica St, Bon Accord, Pretoria, 0009</p>
 										<p><span>Tel:</span> <a href="tel:+27125486489">012 548 6489</a></p>
-										<p><span>Email:</span> <a href="mailto:info@curtains4u.co.za">info@curtains4u.co.za</a></p>
+										<p><span>Email:</span> <a href="mailto:admin@amawakawaka.co.za">admin@amawakawaka.co.za</a></p>
 									</div> 
                                     <div class="footer-icons">
                                         <ul>
